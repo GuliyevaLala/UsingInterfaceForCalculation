@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\22.10\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\Admin\Desktop\22.10\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Admin\Desktop\22.10\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Admin\Desktop\22.10\Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\22.10\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\22.10\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\Admin\Desktop\22.10\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\22.10\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\Admin\Desktop\22.10\Service\obj\Debug\netcoreapp3.1\Service.pdb

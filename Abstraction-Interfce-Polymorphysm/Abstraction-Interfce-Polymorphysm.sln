@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction-Interfce-Polymorphysm", "Abstraction-Interfce-Polymorphysm.csproj", "{D876F3B2-B462-40DB-9794-0B0B46B8886B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "..\Service\Service.csproj", "{DC5076FC-8923-451F-9DEA-4324A0105A22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D876F3B2-B462-40DB-9794-0B0B46B8886B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D876F3B2-B462-40DB-9794-0B0B46B8886B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D876F3B2-B462-40DB-9794-0B0B46B8886B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D876F3B2-B462-40DB-9794-0B0B46B8886B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC5076FC-8923-451F-9DEA-4324A0105A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC5076FC-8923-451F-9DEA-4324A0105A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC5076FC-8923-451F-9DEA-4324A0105A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC5076FC-8923-451F-9DEA-4324A0105A22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6C062E7-0819-45F1-9433-53F94767D4B6}
+	EndGlobalSection
+EndGlobal

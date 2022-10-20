@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\22.10\Abstraction-Interfce-Polymorphysm\bin\Debug\netcoreapp3.1\Abstraction-Interfce-Polymorphysm.exe
+C:\Users\Admin\Desktop\22.10\Abstraction-Interfce-Polymorphysm\bin\Debug\netcoreapp3.1\Abstraction-Interfce-Polymorphysm.deps.json
+C:\Users\Admin\Desktop\22.10\Abstraction-Interfce-Polymorphysm\bin\Debug\netcoreapp3.1\Abstraction-Interfce-Polymorphysm.runtimeconfig.json
+C:\Users\Admin\Desktop\22.10\Abstraction-Interfce-Polymorphysm\bin\Debug\netcoreapp3.1\Abstraction-Interfce-Polymorphysm.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\22.10\Abstraction-Interfce-Polymorphysm\bin\Debug\netcoreapp3.1\Abstraction-Interfce-Polymorphysm.dll
+C:\Users\Admin\Desktop\22.10\Abstraction-Interfce-Polymorphysm\bin\Debug\netcoreapp3.1\Abstraction-Interfce-Polymorphysm.pdb
+C:\Users\Admin\Desktop\22.10\Abstraction-Interfce-Polymorphysm\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Admin\Desktop\22.10\Abstraction-Interfce-Polymorphysm\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Admin\Desktop\22.10\Abstraction-Interfce-Polymorphysm\obj\Debug\netcoreapp3.1\Abstraction-Interfce-Polymorphysm.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\22.10\Abstraction-Interfce-Polymorphysm\obj\Debug\netcoreapp3.1\Abstraction-Interfce-Polymorphysm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\22.10\Abstraction-Interfce-Polymorphysm\obj\Debug\netcoreapp3.1\Abstraction-Interfce-Polymorphysm.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\22.10\Abstraction-Interfce-Polymorphysm\obj\Debug\netcoreapp3.1\Abstraction-Interfce-Polymorphysm.AssemblyInfo.cs
+C:\Users\Admin\Desktop\22.10\Abstraction-Interfce-Polymorphysm\obj\Debug\netcoreapp3.1\Abstraction-Interfce-Polymorphysm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\22.10\Abstraction-Interfce-Polymorphysm\obj\Debug\netcoreapp3.1\Abstraction-Interfce-Polymorphysm.csproj.CopyComplete
+C:\Users\Admin\Desktop\22.10\Abstraction-Interfce-Polymorphysm\obj\Debug\netcoreapp3.1\Abstraction-Interfce-Polymorphysm.dll
+C:\Users\Admin\Desktop\22.10\Abstraction-Interfce-Polymorphysm\obj\Debug\netcoreapp3.1\Abstraction-Interfce-Polymorphysm.pdb
+C:\Users\Admin\Desktop\22.10\Abstraction-Interfce-Polymorphysm\obj\Debug\netcoreapp3.1\Abstraction-Interfce-Polymorphysm.genruntimeconfig.cache
